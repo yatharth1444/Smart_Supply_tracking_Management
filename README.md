@@ -92,8 +92,8 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/faizack619/Supply-Chain-Blockchain.git
-cd Supply-Chain-Blockchain
+git clone https://github.com/yatharth1444/Smart_Supply_tracking_Management
+cd Smart_Supply_tracking_Management
 ```
 
 ### Step 2: Install Dependencies
