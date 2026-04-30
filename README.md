@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Supply Chain Blockchain]
 
 **A decentralized supply chain management system built on Ethereum blockchain using Solidity smart contracts, Next.js, and Web3.js**
 
